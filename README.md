@@ -1,6 +1,6 @@
 # Evidence pojištěnců
 
-Konzolová aplikace pro správu evidence pojištěných osob. Projekt byl vytvořen jako součást kurzu Python OOP na platformě ITnetwork.
+Konzolová aplikace pro správu evidence pojištěných osob. Projekt byl vytvořen jako součást kurzu Python na platformě ITnetwork.
 
 ## Funkce
 
